@@ -6,5 +6,4 @@
     <li><a href="https://github.com/ncallie/Twidere">Twidere</a></li>
     <li><a href="https://github.com/ncallie/wiki-project">Wiki-project</a></li>
     <li><a href="https://github.com/ncallie/CaseGSPI">CaseGSPI</a></li>
-    <li><a href="https://github.com/ncallie/ToDo-Application">ToDo</a></li>
 </ul>
